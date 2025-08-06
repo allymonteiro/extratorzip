@@ -15,7 +15,7 @@ Uma ferramenta de linha de comando feita em Python para automatizar a extração
 
 A maneira mais fácil é baixar o programa pronto, sem precisar de Python.
 
-1.  Vá para a **[Página de Releases](LINK_PARA_SUAS_RELEASES)** deste repositório.
+1.  Vá para a **[Página de Releases](https://github.com/allymonteiro/extratorzip/releases)** deste repositório.
 2.  Baixe o arquivo `extrator.exe` da versão mais recente.
 3.  Dê dois cliques para executar.
 4.  Quando o programa pedir, cole o caminho completo da pasta que contém seus arquivos `.zip` e pressione Enter.
